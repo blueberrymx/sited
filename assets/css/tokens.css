@@ -1,0 +1,53 @@
+/* ==========================================================================
+   SITED Soluciones Tecnológicas — Design Tokens
+   Paleta extraída del logotipo oficial (#0B1825, #3569B0, #95D2DD, #48525C)
+   ========================================================================== */
+
+:root {
+  /* Colores de marca */
+  --color-ink: #0B1825;
+  --color-ink-soft: #1E2E3E;
+  --color-muted: #48525C;
+  --color-subtle: #6D7885;
+  --color-accent: #3569B0;
+  --color-accent-hover: #26508A;
+  --color-orange: #E04E08;
+  --color-orange-hover: #C2410C;
+  --color-cyan: #95D2DD;
+  --color-surface-light: #FFFFFF;
+  --color-surface-tint: #F6F8FB;
+  --color-surface-dark: #0B1825;
+  --color-text-on-dark: #F8FAFC;
+  --color-text-on-dark-muted: #BAC7D5;
+
+  /* Colores oficiales de redes sociales */
+  --brand-whatsapp: #25D366;
+  --brand-facebook: #1877F2;
+  --brand-maps: #4285F4;
+  --brand-email: #3569B0;
+
+  /* Líneas arquitectónicas (cero cajas ni bordes pesados) */
+  --border-hairline: rgba(11, 24, 37, 0.11);
+  --border-hairline-strong: rgba(11, 24, 37, 0.24);
+  --border-hairline-dark: rgba(248, 250, 252, 0.16);
+
+  /* Velo configurable únicamente para los slides del Hero */
+  --hero-scrim: rgba(255, 255, 255, 0.50);
+
+  /* Tipografía */
+  --font-display: 'Plus Jakarta Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+
+  /* Espaciado y contenedor */
+  --container-max: 1360px;
+  --container-pad: clamp(1.25rem, 4vw, 3.5rem);
+  --section-py: clamp(4.5rem, 8vw, 7.5rem);
+
+  /* Radios y transiciones */
+  --radius-pill: 999px;
+  --radius-sm: 6px;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 220ms;
+  --dur-med: 420ms;
+  --dur-slow: 720ms;
+}
