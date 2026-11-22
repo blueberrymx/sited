@@ -1,0 +1,727 @@
+[
+  {
+    "id": 1,
+    "slug": "videovigilancia-durango",
+    "name": "Sistemas de Videovigilancia (CCTV IP y WiFi)",
+    "displayTitleLines": ["Sistemas de Videovigilancia", "(CCTV IP y WiFi)"],
+    "shortTitle": "Videovigilancia HD & IA",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": true,
+    "image": "assets/img/servicios/prod-videovigilancia-durango.png",
+    "imageAlt": "Cámaras de videovigilancia inteligente IP y PTZ instaladas por SITED Durango",
+    "summary": "Monitorea tu hogar, negocio o corporativo en tiempo real desde tu celular con visión nocturna a color, detección inteligente por IA y respaldo continuo sin rentas mensuales.",
+    "seoTitle": "Cámaras de Seguridad y Videovigilancia en Durango | SITED Soluciones Tecnológicas",
+    "seoDescription": "Instalación profesional de cámaras de seguridad CCTV IP, WiFi y analítica IA en Durango. Visión nocturna a color, respaldo NVR/DVR y acceso remoto desde celular para hogar y empresas.",
+    "keywords": ["cámaras de seguridad Durango", "videovigilancia IP Durango", "instalación CCTV Durango", "Dahua Hikvision IMOU Durango"],
+    "heroHeadline": "Visibilidad total de tu patrimonio y operación, de día y de noche.",
+    "problemSolved": "Evita puntos ciegos, grabaciones borrosas y alertas falsas por lluvia o mascotas mediante óptica de alta definición y analítica inteligente de intrusión.",
+    "descriptionLong": [
+      "Diseñamos e instalamos circuitos cerrados de televisión (CCTV) analógicos HD, sistemas IP PoE de grado empresarial y cámaras WiFi inteligentes de exterior IP66 para viviendas, comercios, hospitales, escuelas y plazas comerciales en Durango.",
+      "Más allá de solo grabar video, implementamos detección humana y vehicular con inteligencia artificial, lectura de placas (LPR) en accesos corporativos, visión nocturna a color y audio bidireccional, integrando todos los canales en una aplicación móvil segura sin cuotas mensuales obligatorias."
+    ],
+    "keyBenefits": [
+      "Visualización multiusuario en tiempo real desde iOS, Android y centro de monitoreo.",
+      "Analítica inteligente: detección humana, cruce de línea y alertas instantáneas reales.",
+      "Respaldo local seguro en NVR/DVR con disco duro de grado videovigilancia o microSD.",
+      "Protección exterior certificada IP66/IP67 resistente al clima y polvo de Durango."
+    ],
+    "technologies": ["CCTV IP / PoE", "HDCVI 4K / Full HD", "WiFi Dual-Band", "Analítica IA / LPR", "Visión Nocturna Color"],
+    "applications": {
+      "Hogar": "Cocheras, patios, fachadas y monitoreo interior de familia o mascotas.",
+      "Airbnb": "Perímetros, estacionamientos y accesos de propiedades de renta corta.",
+      "Empresas B2B": "Restaurantes y bares (caja, cocina y barra), naves industriales, hospitales, colegios, plazas comerciales y control LPR."
+    },
+    "recommendedBrands": ["Dahua", "Hikvision", "IMOU"],
+    "serviceFaqs": [
+      {
+        "q": "¿Tengo que pagar mensualidades por ver mis cámaras en el celular?",
+        "a": "No. Configuramos grabación local en NVR/DVR o tarjeta microSD de alta resistencia para que visualices tus cámaras y reproduzcas grabaciones en tu teléfono sin rentas forzosas."
+      },
+      {
+        "q": "¿Cuántos días de grabación guarda el sistema?",
+        "a": "Depende del número de cámaras, resolución y capacidad del disco duro (500 GB, 1 TB, 2 TB, 4 TB o superior). Calculamos el almacenamiento exacto que tu negocio u hogar requiere."
+      },
+      {
+        "q": "¿Instalan cámaras en empresas grandes o zonas sin cableado previo?",
+        "a": "Sí. Realizamos canalización con tubería conduit o charola, enlaces por cableado estructurado Cat6/fibra óptica y radioenlaces punto a punto cuando es necesario."
+      }
+    ],
+    "relatedSlugs": ["sistemas-de-seguridad", "control-accesos-empresariales", "sistemas-voz-y-datos"]
+  },
+  {
+    "id": 2,
+    "slug": "sistemas-de-seguridad",
+    "name": "Sistemas de Seguridad Inteligente",
+    "shortTitle": "Sistemas de Seguridad",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-sistemas-de-seguridad.png",
+    "imageAlt": "Panel de alarma inteligente con sensores de movimiento y apertura magnética",
+    "summary": "Alarmas inalámbricas e híbridas con sensores de movimiento, apertura en puertas y ventanas, sirenas disuasivas y notificaciones instantáneas directo a tu teléfono.",
+    "seoTitle": "Sistemas de Seguridad y Alarmas Inteligentes en Durango | SITED",
+    "seoDescription": "Protege tu casa, tienda u oficina en Durango con sistemas de alarma inteligente WiFi, sensores anti-intrusión, sirenas y respaldo de batería sin contratos forzosos.",
+    "keywords": ["sistemas de seguridad Durango", "alarmas inteligentes WiFi", "sensores de movimiento puertas ventanas"],
+    "heroHeadline": "Prevención activa e inmediata antes de que ocurra una intrusión.",
+    "problemSolved": "Elimina contratos de monitoreo impagables o sistemas ruidosos desactualizados que no te avisan cuando sales de casa o cierras tu negocio.",
+    "descriptionLong": [
+      "Configuramos ecosistemas de seguridad electrónica que coordinan paneles centrales inteligentes, sensores magnéticos en accesos vulnerables, detectores de movimiento inmunes a mascotas y sirenas de alta potencia.",
+      "Al detectar una apertura o presencia no autorizada en horarios armados, el sistema dispara la disuasión sonora y envía una alerta crítica inmediata a los smartphones autorizados, pudiendo integrarse automáticamente con el encendido de luces o la grabación de cámaras."
+    ],
+    "keyBenefits": [
+      "Armado y desarmado remoto desde la aplicación móvil o por geocerca automática.",
+      "Sensores inalámbricos discretos con baterías de larga duración y aviso de nivel bajo.",
+      "Batería de respaldo integrada en el panel ante cortes de energía eléctrica.",
+      "Sin plazos forzosos ni rentas mensuales de monitoreo obligatorio."
+    ],
+    "technologies": ["WiFi + RF Encriptado", "Zigbee Seguridad", "Sensores PIR Inmunes", "Batería Respaldo"],
+    "applications": {
+      "Hogar": "Protección perimetral e interior nocturna y durante viajes familiares.",
+      "Airbnb": "Supervisión de bodegas de mantenimiento y zonas restringidas.",
+      "Empresas B2B": "Restaurantes, bares, locales comerciales, farmacias, bodegas, consultorios y oficinas."
+    },
+    "recommendedBrands": ["Hikvision", "Dahua", "Tuya / Smart Life", "Sonoff"],
+    "serviceFaqs": [
+      {
+        "q": "¿Las mascotas activan falsas alarmas?",
+        "a": "No cuando se seleccionan sensores PIR con inmunidad a mascotas calibrados por peso y altura de montaje."
+      },
+      {
+        "q": "¿Sigue funcionando si cortan la luz?",
+        "a": "Sí. Nuestros paneles de alarma cuentan con batería interna de respaldo para seguir protegiendo y alertando ante cortes temporales."
+      },
+      {
+        "q": "¿Se puede vincular con mis cámaras o luces inteligentes?",
+        "a": "Sí, creamos rutinas para que al dispararse una alerta se enciendan luminarias exteriores o recibas acceso directo a tu cámara."
+      }
+    ],
+    "relatedSlugs": ["videovigilancia-durango", "sensores-humo-gas-cercas", "iluminacion-inteligente"]
+  },
+  {
+    "id": 3,
+    "slug": "control-accesos-empresariales",
+    "name": "Control de Accesos Empresariales",
+    "shortTitle": "Accesos Empresariales",
+    "categories": ["b2b"],
+    "featuredInHero": true,
+    "image": "assets/img/servicios/prod-control-accesos-empresariales.png",
+    "imageAlt": "Terminal biométrica de reconocimiento facial y lector RFID para empresas",
+    "summary": "Restringe, registra y audita cada ingreso en oficinas, hospitales, escuelas y plazas mediante biometría facial, huella, tarjetas RFID, códigos QR y chapas magnéticas.",
+    "seoTitle": "Control de Accesos Empresariales y Biometría en Durango | SITED B2B",
+    "seoDescription": "Control de acceso biométrico facial, huella, RFID, códigos QR y torniquetes en Durango para empresas, hospitales, escuelas y plazas comerciales. Facturación CFDI.",
+    "keywords": ["control de acceso empresarial Durango", "control de asistencia biométrico Durango", "torniquetes RFID hospitales escuelas"],
+    "heroHeadline": "Trazabilidad total y acceso autorizado por nivel, horario y persona.",
+    "problemSolved": "Sustituye llaves físicas copiables y registros manuales vulnerables por auditoría electrónica en tiempo real e integración con nómina o seguridad.",
+    "descriptionLong": [
+      "Implementamos arquitectura de control de acceso peatonal y corporativo adaptada a la exigencia operativa de hospitales, instituciones educativas, corporativos, fábricas y plazas comerciales.",
+      "Integramos terminales biométricas de reconocimiento facial sin contacto, lectores RFID/Mifare, códigos QR temporales para visitantes, chapas electromagnéticas con botón de salida sin contacto, cierra-puertas hidráulicos y liberación automática vinculada a protocolos de emergencia."
+    ],
+    "keyBenefits": [
+      "Control estricto por jerarquías: áreas médicas, archivo, bodegas, dirección o aulas.",
+      "Bitácoras automáticas de entradas, salidas y reportes exportables de asistencia.",
+      "Alta capacidad de usuarios y velocidad de reconocimiento facial menor a 0.5 segundos.",
+      "Proyectos escalables con ingeniería profesional, garantía y facturación CFDI."
+    ],
+    "technologies": ["Biometría Facial / Palma", "RFID / NFC 13.56 MHz", "Códigos QR Temporales", "TCP/IP + PoE", "Chapas Electromagnéticas"],
+    "applications": {
+      "Hogar": "Accesos de servicio o elevadores privados residenciales.",
+      "Airbnb": "Accesos de personal de limpieza, lavandería y cuartos de máquinas.",
+      "Empresas B2B": "Hospitales (cuneros, farmacia, UCI), escuelas (torniquetes), oficinas y naves industriales."
+    },
+    "recommendedBrands": ["ZKTeco", "Hikvision", "Dahua", "AccessPRO"],
+    "serviceFaqs": [
+      {
+        "q": "¿Pueden controlar qué puertas abre cada empleado o alumno y en qué horarios?",
+        "a": "Sí. Configuramos grupos de acceso, franjas horarias y fechas de vigencia para empleados, proveedores, alumnos o visitantes."
+      },
+      {
+        "q": "¿Qué pasa con las puertas electromagnéticas en caso de apagón o emergencia?",
+        "a": "Instalamos fuentes de poder con respaldo de batería (UPS) y pulsadores de emergencia que liberan las puertas de evacuación cumpliendo normativas de seguridad."
+      },
+      {
+        "q": "¿Emiten factura y ofrecen póliza de mantenimiento?",
+        "a": "Sí, emitimos factura fiscal CFDI y ofrecemos pólizas de mantenimiento preventivo y soporte prioritario para empresas."
+      }
+    ],
+    "relatedSlugs": ["videovigilancia-durango", "sistemas-voz-y-datos", "videoporteros-accesos-vehiculares"]
+  },
+  {
+    "id": 4,
+    "slug": "control-accesos-airbnb",
+    "name": "Control de Accesos para Airbnb (Automatización Remota)",
+    "shortTitle": "Accesos para Airbnb",
+    "categories": ["hospitality"],
+    "featuredInHero": true,
+    "image": "assets/img/servicios/prod-control-accesos-airbnb.png",
+    "imageAlt": "Cerradura inteligente WiFi con teclado PIN y gateway remoto para Airbnb",
+    "summary": "Automatiza el self check-in de tus alojamientos desde cualquier ciudad: genera códigos PIN temporales por reserva que caducan automáticamente al check-out.",
+    "seoTitle": "Control de Accesos para Airbnb y Renta Vacacional en Durango | SITED",
+    "seoDescription": "Automatiza tu Airbnb con cerraduras inteligentes y gateway WiFi en Durango. Genera códigos temporales por fecha desde tu celular sin entregar llaves físicas.",
+    "keywords": ["control de accesos Airbnb", "cerradura inteligente Airbnb Durango", "TTLock gateway self check-in"],
+    "heroHeadline": "Check-in autónomo 24/7 sin entregas físicas ni copias de llaves.",
+    "problemSolved": "Olvídate de esperar vuelos nocturnos, perder llaves o cambiar chapas cada vez que un huésped concluye su estancia.",
+    "descriptionLong": [
+      "Especialistas en automatización para anfitriones de Airbnb, Booking y departamentos ejecutivos. Instalamos cerraduras inteligentes de grado rudo vinculadas mediante Gateway WiFi para administrar todas tus propiedades desde una sola pantalla.",
+      "Con algoritmos seguros (ecosistema TTLock) generas códigos numéricos únicos con fecha y hora exacta de inicio y expiración. Incluso si tu internet sufre una falla temporal, el huésped ingresa sin contratiempos y tú conservas el historial de aperturas de huéspedes y personal de limpieza."
+    ],
+    "keyBenefits": [
+      "Códigos PIN programados por estancia que dejan de funcionar automáticamente al check-out.",
+      "Creación instantánea de claves a distancia, incluso desde otra ciudad o país.",
+      "Registro en tiempo real de quién y a qué hora abrió la puerta (huésped o limpieza).",
+      "Alertas de batería baja + puerto exterior USB-C/microUSB de emergencia y llave oculta."
+    ],
+    "technologies": ["Bluetooth BLE + Gateway WiFi", "Algoritmo PIN Offline", "Tarjetas RFID / eKeys", "Integración PMS"],
+    "applications": {
+      "Hogar": "Departamentos independientes, lofts o cuartos de visitas.",
+      "Airbnb": "Casas completas, lofts ejecutivos, cabañas en sierra y departamentos de renta corta.",
+      "Empresas B2B": "Consultorios compartidos, coworkings y salas de juntas por hora."
+    },
+    "recommendedBrands": ["TTLock", "Tuya / Smart Life"],
+    "serviceFaqs": [
+      {
+        "q": "¿Qué pasa si el huésped llega de madrugada y se fue el WiFi?",
+        "a": "Las cerraduras con algoritmo temporal (TTLock) validan el PIN generado de forma local sin depender del internet en ese instante, garantizando el ingreso."
+      },
+      {
+        "q": "¿Puedo dar un código exclusivo solo para días y horas de limpieza?",
+        "a": "Sí. Puedes crear códigos recurrentes (por ejemplo, martes y viernes de 11:00 a 15:00) exclusivos para tu equipo de limpieza y ver cuándo ingresaron."
+      },
+      {
+        "q": "¿La instalación se adapta a puertas de madera, herrería o aluminio?",
+        "a": "Evaluamos el grosor, perfil y sentido de apertura de tu puerta para instalar el modelo correcto con herrajes limpios y seguros."
+      }
+    ],
+    "relatedSlugs": ["cerraduras-inteligentes", "control-temperatura-climatizacion", "iluminacion-inteligente"]
+  },
+  {
+    "id": 5,
+    "slug": "cerraduras-inteligentes",
+    "name": "Cerraduras Smart Residenciales",
+    "shortTitle": "Cerraduras Smart",
+    "categories": ["hogar", "hospitality"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-cerraduras-inteligentes.png",
+    "imageAlt": "Cerradura inteligente arquitectónica con huella dactilar y diseño push-pull",
+    "summary": "Entra a tu hogar con huella digital, código, tarjeta, app o llave mecánica. Modelos en acero inoxidable resistentes a exterior, sol y lluvia con historial en tu celular.",
+    "seoTitle": "Cerraduras Inteligentes Residenciales en Durango | Instalación Profesional SITED",
+    "seoDescription": "Venta e instalación de cerraduras inteligentes biométricas WiFi y Bluetooth en Durango. Huella, código PIN, tarjeta RFID, resistencia exterior e historial móvil.",
+    "keywords": ["cerraduras inteligentes Durango", "chapa electrónica huella Durango", "cerradura exterior impermeable"],
+    "heroHeadline": "Despídete de las llaves tradicionales con acceso biométrico en menos de un segundo.",
+    "problemSolved": "Evita quedarte afuera por olvidar las llaves o prestar copias sin control a familiares, visitas o personal doméstico.",
+    "descriptionLong": [
+      "Integramos cerraduras inteligentes de diseño arquitectónico con múltiples métodos de desbloqueo: huella dactilar de alta precisión, clave numérica anti-espía, tarjeta de proximidad, aplicación móvil remota y llave física de emergencia oculta.",
+      "Seleccionamos el equipo adecuado según el tipo de puerta (principal de madera sólida, herrería, acero o perfil estrecho de aluminio) e intemperie (protección impermeable IP65/IP66 para exteriores), asegurando instalación limpia, ajuste de contra y capacitación completa."
+    ],
+    "keyBenefits": [
+      "5 métodos de apertura en un solo equipo: huella, PIN, tarjeta, app y llave física.",
+      "Cierre automático configurable para que la puerta nunca quede sin seguro.",
+      "Notificaciones en tu celular al detectar accesos o intentos fallidos.",
+      "Opciones impermeables en acero inoxidable y aleación de zinc para exterior."
+    ],
+    "technologies": ["Biometría Huella", "WiFi / Bluetooth BLE", "RFID / NFC", "Protección IP65/IP66", "Energía Emergencia USB"],
+    "applications": {
+      "Hogar": "Puerta principal, acceso de cochera a casa, recámaras y estudio.",
+      "Airbnb": "Casas, departamentos amueblados y propiedades de renta vacacional.",
+      "Empresas B2B": "Privados de dirección, consultorios médicos y oficinas."
+    },
+    "recommendedBrands": ["TTLock", "Tuya / Smart Life"],
+    "serviceFaqs": [
+      {
+        "q": "¿Cuánto duran las baterías y qué pasa si se descargan por completo?",
+        "a": "Las baterías suelen durar entre 6 y 10 meses según el tráfico. La app alerta al bajar del 20%, y en caso de descarga total puedes darle energía externa con una power bank vía puerto USB o abrir con su llave mecánica."
+      },
+      {
+        "q": "¿Resisten si mi puerta principal da a la calle o le cae lluvia?",
+        "a": "Sí, contamos con modelos certificados para exterior impermeables y resistentes al sol directo, y recomendamos la opción idónea según tu fachada."
+      },
+      {
+        "q": "¿El precio incluye instalación en puerta existente?",
+        "a": "Nuestras soluciones se cotizan de forma integral incluyendo equipo, mano de obra de carpintería/herrería de ajuste limpio y configuración en tu celular."
+      }
+    ],
+    "relatedSlugs": ["control-accesos-airbnb", "videoporteros-accesos-vehiculares", "automatizacion-portones-wifi"]
+  },
+  {
+    "id": 6,
+    "slug": "iluminacion-inteligente",
+    "name": "Iluminación Inteligente (Interiores, Exteriores y Escaleras)",
+    "displayTitleLines": ["Iluminación Inteligente", "(Interiores, Exteriores y Escaleras)"],
+    "shortTitle": "Iluminación Inteligente",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": true,
+    "image": "assets/img/servicios/prod-iluminacion-inteligente.png",
+    "imageAlt": "Apagador táctil WiFi de cristal templado y perfil LED arquitectónico para escaleras",
+    "summary": "Apagadores táctiles WiFi, escenas por horario astronómico, control por voz con Alexa y Google Home, e iluminación secuencial automática con sensores en escaleras.",
+    "seoTitle": "Iluminación Inteligente y Escaleras LED Automáticas en Durango | SITED",
+    "seoDescription": "Apagadores inteligentes WiFi táctiles, iluminación exterior automática y escaleras LED en cascada con sensores en Durango. Compatible con Alexa y Google Home.",
+    "keywords": ["iluminación inteligente Durango", "apagadores inteligentes WiFi", "iluminación de escaleras automática LED"],
+    "heroHeadline": "Luz precisa, arquitectónica y automatizada en cada ambiente.",
+    "problemSolved": "Olvídate de luces encendidas toda la noche, interruptores inaccesibles en la oscuridad o fachadas apagadas cuando estás de viaje.",
+    "descriptionLong": [
+      "Transformamos la iluminación convencional de casas, departamentos, restaurantes, tiendas y oficinas mediante apagadores inteligentes táctiles de 1, 2 y 3 botones en cristal templado o micro-módulos ocultos compatible con tu placa decorativa actual.",
+      "Diseñamos además iluminación exterior programada por amanecer/anochecer (horario astronómico), atenuación dimmer para crear escenas y automatización secuencial de escaleras con perfiles LED y sensores de paso que iluminan cada peldaño al detectar tu movimiento."
+    ],
+    "keyBenefits": [
+      "Encendido, apagado y creación de escenas desde tu smartphone o por comando de voz.",
+      "Escaleras LED con encendido en cascada automático al subir o bajar sin tocar botones.",
+      "Programación astronómica para fachadas, jardines y aparadores comerciales.",
+      "Modelos con y sin línea de neutro para adaptarse a casas nuevas o existentes."
+    ],
+    "technologies": ["WiFi / Zigbee / Matter", "Alexa & Google Home", "Sensores de Paso PIR", "Horario Astronómico", "Opciones Sin Neutro"],
+    "applications": {
+      "Hogar": "Salas, recámaras, escaleras secuenciales, pasillos, cocheras y jardines.",
+      "Airbnb": "Cortesías de bienvenida, pasillos y ahorro programado en áreas comunes.",
+      "Empresas B2B": "Restaurantes y bares (escenas por horario y ambiente), fachadas de plazas comerciales, consultorios y salas de juntas."
+    },
+    "recommendedBrands": ["Tuya / Smart Life", "Sonoff", "Shelly", "Amazon Alexa", "Google Home", "Matter"],
+    "serviceFaqs": [
+      {
+        "q": "¿Si mi casa es antigua y no tiene cable neutro en los apagadores, se puede instalar?",
+        "a": "Sí. Trabajamos con modelos de apagadores y módulos diseñados específicamente para operar sin cable neutro sin tener que recablear toda la casa."
+      },
+      {
+        "q": "¿Si se va el internet, los apagadores dejan de funcionar?",
+        "a": "No. Siempre conservan su operación táctil o física directa en la pared; lo único que depende de internet es el control fuera de casa."
+      },
+      {
+        "q": "¿Para la iluminación automática de escaleras se necesita obra?",
+        "a": "Idealmente se planea en obra o remodelación para ocultar el cableado por peldaño, aunque también existen soluciones adaptables según tu escalera actual."
+      }
+    ],
+    "relatedSlugs": ["persianas-inteligentes", "automatizacion-electrodomesticos", "sensores-humo-gas-cercas"]
+  },
+  {
+    "id": 7,
+    "slug": "persianas-inteligentes",
+    "name": "Persianas Inteligentes Motorizadas",
+    "shortTitle": "Persianas Inteligentes",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-persianas-inteligentes.png",
+    "imageAlt": "Persiana enrollable motorizada con cabezal tubular inteligente",
+    "summary": "Motores tubulares silenciosos para persianas nuevas o existentes: programa aperturas al amanecer, protege tus interiores del sol y controla todo por voz o app.",
+    "seoTitle": "Persianas Inteligentes Motorizadas WiFi en Durango | SITED Soluciones Tecnológicas",
+    "seoDescription": "Motorización e instalación de persianas inteligentes en Durango. Motores con batería o cableado para enrollables y sheer elegance compatibles con Alexa y Google Home.",
+    "keywords": ["persianas inteligentes Durango", "persianas motorizadas WiFi", "automatización persianas Somfy"],
+    "heroHeadline": "Confort térmico y privacidad sin cadenas ni esfuerzo.",
+    "problemSolved": "Controla ventanales altos e inaccesibles, evita el desgaste de cadenas manuales y bloquea la radiación solar en las horas más calurosas.",
+    "descriptionLong": [
+      "Motorizamos persianas enrollables, blackout, screen y sheer elegance con motores tubulares silenciosos, tanto con alimentación eléctrica como con batería recargable de litio ideal para inmuebles ya terminados donde no quieres cablear muros.",
+      "Programa rutinas para despertar con luz natural, bajar automáticamente tus persianas al mediodía para reducir la carga térmica sobre el aire acondicionado y simular presencia cuando sales de viaje."
+    ],
+    "keyBenefits": [
+      "Control porcentual preciso (abrir 25%, 50%, 100%) desde aplicación móvil o voz.",
+      "Opciones de motor a batería recargable (cero ranurado de muros) o cableado.",
+      "Protección de muebles y reducción de temperatura interior en ventanales soleados.",
+      "Seguridad infantil al eliminar cordones y cadenas colgantes."
+    ],
+    "technologies": ["WiFi / Zigbee / RF", "Motores Tubulares", "Batería Litio / 110V", "Alexa & Google Home"],
+    "applications": {
+      "Hogar": "Recámaras blackout, dobles alturas, salas y ventanales panorámicos.",
+      "Airbnb": "Ventanales panorámicos y confort automatizado al check-in.",
+      "Empresas B2B": "Restaurantes con terraza, salas de juntas ejecutivas, consultorios médicos y recepciones corporativas."
+    },
+    "recommendedBrands": ["Somfy", "Tuya / Smart Life", "Amazon Alexa", "Google Home"],
+    "serviceFaqs": [
+      {
+        "q": "¿Se pueden automatizar las persianas que ya tengo instaladas?",
+        "a": "En la mayoría de las persianas enrollables estándar es posible adaptar un motor tubular dentro del tubo existente o un motor de cadena WiFi tras revisar el diámetro y peso."
+      },
+      {
+        "q": "¿Qué pasa si no tengo toma de corriente junto a la ventana?",
+        "a": "Instalamos motores recargables con batería interna de litio que operan durante meses con una sola carga mediante cable USB-C."
+      },
+      {
+        "q": "¿Son ruidosos los motores?",
+        "a": "Trabajamos motores silenciosos de operación suave ideales para dormitorios y salas de juntas."
+      }
+    ],
+    "relatedSlugs": ["control-temperatura-climatizacion", "iluminacion-inteligente", "control-accesos-airbnb"]
+  },
+  {
+    "id": 8,
+    "slug": "automatizacion-portones-wifi",
+    "name": "Automatización de Portones con WiFi",
+    "shortTitle": "Portones con WiFi",
+    "categories": ["hogar", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-automatizacion-portones-wifi.png",
+    "imageAlt": "Módulo WiFi inteligente para portón de cochera con sensor magnético y control",
+    "summary": "Abre, cierra y verifica en tu celular si dejaste abierta tu cochera desde cualquier lugar, sin cambiar tu motor actual y compatible con Alexa, Google Home y Apple.",
+    "seoTitle": "Automatización de Portones con WiFi en Durango | Abre con tu Celular - SITED",
+    "seoDescription": "Convierte tu portón o cochera eléctrica en inteligente con módulo WiFi en Durango. Abre con tu celular, alertas de puerta abierta y compatible con Alexa y Google.",
+    "keywords": ["abrir portón con celular WiFi Durango", "módulo WiFi cochera", "automatización portones eléctricos"],
+    "heroHeadline": "Tu teléfono y tu voz como el control remoto más seguro de tu cochera.",
+    "problemSolved": "Se acabó regresar a media avenida para verificar si cerraste el portón, perder controles físicos o bajar del auto bajo la lluvia.",
+    "descriptionLong": [
+      "Convertimos tu motor de cochera actual (abatible, corredizo o ascendente de marcas como Merik, LiftMaster, Chamberlain o Craftsman) en un acceso inteligente controlado mediante conexión WiFi sin necesidad de reemplazar el motor.",
+      "El módulo integra un sensor magnético físico que te informa en tiempo real si el portón está abierto o cerrado, envía alertas si olvidaste cerrarlo tras cierto tiempo y permite otorgar apertura remota a familiares o paquetería desde cualquier lugar."
+    ],
+    "keyBenefits": [
+      "Compatible con la gran mayoría de motores residenciales y comerciales existentes.",
+      "Sensor de estado real: confirma en pantalla si el portón quedó abierto o cerrado.",
+      "Alertas automáticas si la cochera permanece abierta fuera de horario.",
+      "Tus controles de radiofrecuencia físicos anteriores siguen funcionando normalmente."
+    ],
+    "technologies": ["Módulo Contacto Seco WiFi", "Sensor Magnético Puerta", "Alexa & Google Home", "Historial de Aperturas"],
+    "applications": {
+      "Hogar": "Cocheras residenciales unifamiliares y portones principales.",
+      "Airbnb": "Acceso vehicular controlado para huéspedes sin entregar controles perdibles.",
+      "Empresas B2B": "Portones de carga, patios de maniobra, bodegas y estacionamientos PyME."
+    },
+    "recommendedBrands": ["Tuya / Smart Life", "Shelly", "Sonoff", "AccessPRO"],
+    "serviceFaqs": [
+      {
+        "q": "¿Tengo que comprar un motor nuevo para mi portón?",
+        "a": "No. Si tu portón ya cuenta con motor automático en buen estado, solo instalamos el módulo WiFi con sensor en unos minutos; también podemos cotizar motor completo si aún es manual."
+      },
+      {
+        "q": "¿Siguen sirviendo mis controles de visera del carro?",
+        "a": "Sí, completamente. El módulo WiFi trabaja en paralelo y no anula tus controles originales."
+      },
+      {
+        "q": "¿Qué alcance necesito de mi módem WiFi en la cochera?",
+        "a": "Validamos la intensidad de señal en el sitio durante la instalación; si la señal llega débil, te proponemos soluciones de extensión o WiFi Mesh para garantizar respuesta inmediata."
+      }
+    ],
+    "relatedSlugs": ["videoporteros-accesos-vehiculares", "cerraduras-inteligentes", "wifi-mesh-mantenimiento"]
+  },
+  {
+    "id": 9,
+    "slug": "control-temperatura-climatizacion",
+    "name": "Control de Temperatura Inteligente (Climatización)",
+    "shortTitle": "Climatización Smart",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-control-temperatura-climatizacion.png",
+    "imageAlt": "Termostato WiFi y controlador infrarrojo inteligente para minisplit mostrando 22°C",
+    "summary": "Controla minisplits, clima y calefacción desde tu celular o por horarios, evita desperdicios en espacios vacíos y reduce hasta 35% el gasto eléctrico.",
+    "seoTitle": "Control de Temperatura Inteligente y Minisplit WiFi en Durango | SITED",
+    "seoDescription": "Automatiza tu aire acondicionado minisplit o sistema HVAC en Durango con termostatos y controladores WiFi. Enfría antes de llegar, horarios y ahorro en recibo CFE.",
+    "keywords": ["control aire acondicionado WiFi Durango", "termostato inteligente minisplit", "ahorro energía clima CFE"],
+    "heroHeadline": "Temperatura perfecta al llegar y cero kilowatt desperdiciado al salir.",
+    "problemSolved": "Frena el alto consumo eléctrico de aires acondicionados olvidados encendidos en habitaciones, oficinas o aulas desocupadas.",
+    "descriptionLong": [
+      "Automatizamos equipos minisplit convencionales e inverter mediante controladores infrarrojos WiFi inteligentes (sin importar si tu equipo no traía módulo smart de fábrica), así como termostatos de pared para sistemas centrales HVAC.",
+      "Configura reglas por temperatura y humedad reales, apagados automáticos cuando la propiedad queda vacía (geofencing o sensores de presencia/ventana) y enciende el clima minutos antes de volver a casa o de recibir a un cliente."
+    ],
+    "keyBenefits": [
+      "Ahorro energético comprobado de entre 25% y 40% en consumo de climatización.",
+      "Compatible con la gran mayoría de marcas de minisplits (Mirage, Midea, LG, Carrier, York, Trane).",
+      "Bloqueo de rangos de temperatura ideal para oficinas, rentas y comercios.",
+      "Lectura precisa de temperatura y humedad del punto donde realmente están las personas."
+    ],
+    "technologies": ["IR Inteligente WiFi", "Sensores Temp/Humedad", "Geofencing", "Termostatos HVAC", "Alexa & Google Home"],
+    "applications": {
+      "Hogar": "Recámaras, estancias y climas controlados antes de llegar a casa.",
+      "Airbnb": "Límite de temperatura y apagado automático al hacer check-out o abrir ventanas.",
+      "Empresas B2B": "Restaurantes, bares, consultorios, oficinas administrativas, salones escolares y locales comerciales."
+    },
+    "recommendedBrands": ["Sensibo", "Tuya / Smart Life", "Alexa · Google Home · Matter"],
+    "serviceFaqs": [
+      {
+        "q": "¿Funciona aunque mi minisplit sea antiguo y no sea Smart?",
+        "a": "Sí. Siempre que tu equipo opere con un control remoto infrarrojo estándar, podemos integrarlo vía puente IR inteligente sin intervenir internamente el equipo."
+      },
+      {
+        "q": "¿Se puede impedir que en un negocio u oficina pongan el clima a 16°C todo el día?",
+        "a": "Sí. Con soluciones como Sensibo o termostatos administrados puedes definir límites mínimos/máximos y programar apagados automáticos al cierre."
+      },
+      {
+        "q": "¿Ahorra realmente en el recibo de luz?",
+        "a": "Sí. Evitar equipos encendidos en cuartos vacíos y mantener rangos eficientes reduce picos de demanda y consumo innecesario."
+      }
+    ],
+    "relatedSlugs": ["iluminacion-inteligente", "persianas-inteligentes", "control-accesos-airbnb"]
+  },
+  {
+    "id": 10,
+    "slug": "riego-inteligente",
+    "name": "Riego Inteligente Automatizado",
+    "shortTitle": "Riego Inteligente",
+    "categories": ["hogar", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-riego-inteligente.png",
+    "imageAlt": "Controlador WiFi multizona de riego inteligente y electroválvula hidráulica",
+    "summary": "Programa zonas de riego por horarios óptimos, ajusta el flujo según pronóstico de lluvia y evita desperdicio de agua y daños en áreas verdes desde tu celular.",
+    "seoTitle": "Sistemas de Riego Inteligente WiFi en Durango | Hogar y Áreas Verdes - SITED",
+    "seoDescription": "Instalación de controladores de riego inteligente WiFi multizona en Durango. Ahorro de agua con ajuste por clima y sensores de lluvia para jardines, escuelas y empresas.",
+    "keywords": ["riego inteligente WiFi Durango", "controlador riego automático Hunter", "automatización jardines áreas verdes"],
+    "heroHeadline": "Áreas verdes saludables con hasta 40% menos desperdicio de agua.",
+    "problemSolved": "Evita jardines secos por olvidos, riego inútil bajo tormentas y fugas o consumo excesivo de agua en viviendas, camellones y campus.",
+    "descriptionLong": [
+      "Instalamos controladores de riego inteligentes conectados por WiFi acoplados a electroválvulas multizona, permitiendo gestionar por separado césped, macetas, árboles o jardineras desde tu teléfono.",
+      "Gracias a la integración con datos meteorológicos locales o sensores físicos de lluvia y humedad, el sistema omite o reduce automáticamente ciclos cuando llueve o bajan las temperaturas, maximizando la eficiencia hídrica."
+    ],
+    "keyBenefits": [
+      "Gestión independiente por zonas y tiempos exactos de aspersión o goteo.",
+      "Omitir riego automático por lluvia real o pronóstico meteorológico.",
+      "Control manual instantáneo desde el celular para pruebas de mantenimiento.",
+      "Ideal en combinación con automatización de bomba de cisterna."
+    ],
+    "technologies": ["Controladores WiFi Hydrawise / IoT", "Electroválvulas 24VAC", "Sensores Lluvia / Humedad", "Relevador Bomba"],
+    "applications": {
+      "Hogar": "Jardines frontales, patios traseros, terrazas y muros verdes.",
+      "Airbnb": "Jardines de quintas, cabañas y casas de renta vacacional.",
+      "Empresas B2B": "Terrazas y jardines de restaurantes, áreas verdes de fraccionamientos, campus universitarios, escuelas y plazas."
+    },
+    "recommendedBrands": ["Hunter", "Tuya / Smart Life", "Shelly"],
+    "serviceFaqs": [
+      {
+        "q": "¿Si ya tengo riego automático con programador antiguo de perilla, lo pueden hacer WiFi?",
+        "a": "Sí. Sustituimos el programador tradicional manteniendo tus electroválvulas y tuberías existentes si operan correctamente."
+      },
+      {
+        "q": "¿También pueden automatizar el encendido de la bomba de agua del riego?",
+        "a": "Sí, integramos el relevador maestro de bomba para encender únicamente cuando alguna zona de riego está activa."
+      },
+      {
+        "q": "¿Cuántas zonas puedo controlar?",
+        "a": "Desde sistemas residenciales de 2 a 6 zonas hasta controladores expandibles de 12 o más zonas para proyectos amplios."
+      }
+    ],
+    "relatedSlugs": ["automatizacion-electrodomesticos", "iluminacion-inteligente", "wifi-mesh-mantenimiento"]
+  },
+  {
+    "id": 11,
+    "slug": "sistemas-voz-y-datos",
+    "name": "Sistemas de Voz y Datos (Redes Corporativas)",
+    "displayTitleLines": ["Sistemas de Voz y Datos", "(Redes Corporativas)"],
+    "shortTitle": "Sistemas de Voz y Datos",
+    "categories": ["b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-sistemas-voz-y-datos.png",
+    "imageAlt": "Switch administrable PoE+ de 24 puertos con cableado estructurado Cat6A y fibra óptica",
+    "summary": "Cableado estructurado Cat6/Cat6A, enlaces de fibra óptica, racks ordenados, PoE+ y redes corporativas segmentadas bajo estándares TIA/EIA para empresas, hospitales y escuelas.",
+    "seoTitle": "Cableado Estructurado Voz y Datos y Redes Corporativas en Durango | SITED",
+    "seoDescription": "Instalación de sistemas de voz y datos, cableado estructurado Cat6/Cat6A, fibra óptica, racks y redes empresariales en Durango para oficinas, hospitales, escuelas y plazas.",
+    "keywords": ["sistemas voz y datos Durango", "cableado estructurado Cat6A Durango", "redes empresariales fibra óptica"],
+    "heroHeadline": "La columna vertebral estable para que toda tu operación y tecnología funcione sin caídas.",
+    "problemSolved": "Elimina redes lentas, enredos de cables sin etiquetar en el site, caídas constantes de telefonía/TPV y fallos en cámaras o control de acceso.",
+    "descriptionLong": [
+      "Diseñamos e implementamos infraestructura de telecomunicaciones y redes convergentes de voz y datos bajo normativas internacionales TIA/EIA, pensada para entornos exigentes como clínicas, hospitales, escuelas, corporativos y plazas comerciales.",
+      "Incluye tendido y remate de nodos Cat6/Cat6A, enlaces troncales de fibra óptica, peinado y saneamiento profesional de racks (MDF/IDF), patch panels, switches administrables PoE+ para alimentar cámaras, antenas WiFi y telefonía IP, y segmentación segura mediante VLANs."
+    ],
+    "keyBenefits": [
+      "Sites y gabinetes ordenados, etiquetados y fáciles de mantener o escalar.",
+      "Alimentación PoE+ centralizada con respaldo de energía UPS.",
+      "Segmentación segura por VLANs (invitados, administración, CCTV, IoT/biomédico).",
+      "Memoria de nodos, etiquetado completo y facturación fiscal CFDI."
+    ],
+    "technologies": ["Cat6 / Cat6A Blindado", "Fibra Óptica", "Switches PoE+ / SFP", "VLANs Corporativas", "Canalización Conduit/Charola"],
+    "applications": {
+      "Hogar": "Residencias de gran tamaño con nodos cableados para home office y streaming.",
+      "Airbnb": "Backbone de red para cobertura estable en propiedades amplias de renta corta.",
+      "Empresas B2B": "Restaurantes y bares (TPV/POS y red separada), hospitales, clínicas, colegios, plazas comerciales y oficinas."
+    },
+    "recommendedBrands": ["Panduit", "Ubiquiti UniFi", "Dahua", "Hikvision"],
+    "serviceFaqs": [
+      {
+        "q": "¿Pueden ordenar y sanear un rack o cuarto de comunicaciones que ya existe y está enredado?",
+        "a": "Sí. Realizamos saneamiento, cambio de patch cords, re-etiquetado, organización horizontal/vertical y optimización en ventanas de horario que no afecten tu operación."
+      },
+      {
+        "q": "¿Atienden obra nueva o remodelaciones en horarios nocturnos / fines de semana?",
+        "a": "Sí, nos adaptamos a los tiempos de obra o ventanas operativas de tu empresa, clínica o comercio."
+      },
+      {
+        "q": "¿Por qué es importante el cableado estructurado antes de automatizar una empresa?",
+        "a": "Porque toda cámara IP, biométrico, punto de acceso WiFi o sistema de telefonía depende de enlaces físicos estables y sin interferencia eléctrica."
+      }
+    ],
+    "relatedSlugs": ["wifi-mesh-mantenimiento", "control-accesos-empresariales", "videovigilancia-durango"]
+  },
+  {
+    "id": 12,
+    "slug": "automatizacion-electrodomesticos",
+    "name": "Automatización de Aparatos Electrónicos",
+    "shortTitle": "Automatización de Aparatos",
+    "categories": ["hogar", "b2b"],
+    "featuredInHero": true,
+    "image": "assets/img/servicios/prod-automatizacion-electrodomesticos.png",
+    "imageAlt": "Relevador inteligente WiFi de 16A y contacto inteligente arquitectónico",
+    "summary": "Automatiza cafeteras, bombas de agua, boilers eléctricos, anuncios luminosos, ventiladores y cualquier equipo electrónico con relevadores ocultos y enchufes inteligentes de 16A.",
+    "seoTitle": "Automatización de Electrodomésticos y Equipos Eléctricos WiFi en Durango | SITED",
+    "seoDescription": "Controla aparatos electrónicos, bombas de agua, boilers, letreros comerciales y enchufes por WiFi en Durango. Relevadores 16A, horarios y medición de consumo.",
+    "keywords": ["automatización electrodomésticos WiFi", "enchufe inteligente 16A Durango", "automatizar bomba de agua letrero negocio"],
+    "heroHeadline": "Cualquier equipo eléctrico bajo tu control, sin importar si no nació inteligente.",
+    "problemSolved": "Olvida la angustia de haber dejado la plancha o cafetera conectada, los letreros de tu negocio encendidos de día o bombas trabajando en seco.",
+    "descriptionLong": [
+      "Integramos micro-relevadores inteligentes (como Shelly y Sonoff de contacto seco o alta capacidad 16A) ocultos en cajas de registro o tableros eléctricos, junto con enchufes inteligentes con medición de consumo en tiempo real para electrodomésticos y equipos comerciales.",
+      "Desde encender tu cafetera a las 6:30 a.m. o apagar impresoras y equipo 'vampiro' de oficina al cerrar el negocio, hasta automatizar letreros luminosos por horario solar y bombas de cisterna/tinaco protegiendo motores y ahorrando energía."
+    ],
+    "keyBenefits": [
+      "Relevadores dimensionados para la red eléctrica mexicana (127V / 60Hz) y cargas de hasta 16A.",
+      "Medición de watts y kWh en tiempo real para detectar equipos de alto consumo.",
+      "Encendido/apagado por horarios astronómicos ideal para anuncios luminosos comerciales.",
+      "Integración total en una app unificada junto a Alexa y Google Home."
+    ],
+    "technologies": ["Relevadores WiFi 16A", "Contacto Seco", "Enchufes Power Meter", "Matter / Zigbee", "Automatización Horaria"],
+    "applications": {
+      "Hogar": "Cafeteras, lámparas de pie, planchas, bombas de agua, ventiladores, árbol navideño y audio.",
+      "Airbnb": "Corte automático de equipos auxiliares y fuentes decorativas.",
+      "Empresas B2B": "Anuncios luminosos, pantallas de exhibición, cafeteras, impresoras y control de bombas."
+    },
+    "recommendedBrands": ["Shelly", "Sonoff", "Tuya / Smart Life", "Amazon Alexa", "Google Home"],
+    "serviceFaqs": [
+      {
+        "q": "¿Es seguro conectar aparatos pesados como hornos, bombas o boilers?",
+        "a": "Únicamente cuando se dimensiona correctamente el amperaje (16A o uso de contactor auxiliar). En SITED evaluamos la carga eléctrica del equipo antes de instalar."
+      },
+      {
+        "q": "¿Se ve algún adaptador estorboso en la pared?",
+        "a": "No necesariamente. Si buscas estética limpia o cargas fijas (anuncio luminoso, bomba, circuito eléctrico), ocultamos un relevador dentro del registro o centro de carga."
+      },
+      {
+        "q": "¿Puedo automatizar las luces de temporada o anuncios de mi local comercial?",
+        "a": "Sí, es una de las aplicaciones más prácticas y económicas: enciende exactamente al atardecer y apaga a tu hora de cierre todos los días."
+      }
+    ],
+    "relatedSlugs": ["iluminacion-inteligente", "riego-inteligente", "automatizacion-portones-wifi"]
+  },
+  {
+    "id": 13,
+    "slug": "videoporteros-accesos-vehiculares",
+    "name": "Videoporteros IP y Accesos para Fraccionamientos",
+    "shortTitle": "Videoporteros & Privadas",
+    "categories": ["hogar", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-videoporteros-accesos-vehiculares.png",
+    "imageAlt": "Monitor de videoportero IP de cristal negro, frente de calle metálico y tag RFID",
+    "summary": "Atiende a quien toca tu puerta o caseta desde tu celular estés donde estés y gestiona accesos vehiculares en privadas con plumas automáticas, tags RFID y lectura de placas.",
+    "seoTitle": "Videoporteros Inteligentes IP y Control Vehicular en Durango | SITED",
+    "seoDescription": "Instalación de videoporteros inteligentes WiFi/IP y acceso vehicular RFID o LPR para residencias, fraccionamientos y plazas en Durango.",
+    "keywords": ["videoportero inteligente WiFi Durango", "control acceso vehicular fraccionamientos Durango", "plumas automáticas tags RFID"],
+    "heroHeadline": "Responde tu puerta desde cualquier ciudad y ordena el flujo vehicular de tu privada.",
+    "problemSolved": "Evita recibir paquetes a ciegas, controles clonables en casetas o filas en la entrada de fraccionamientos y edificios.",
+    "descriptionLong": [
+      "Integramos frentes de calle con cámara HD gran angular, visión nocturna y apertura remota conectada a monitores interiores y a tu smartphone: cuando alguien toca el timbre recibes la videollamada en tu celular y puedes abrir la chapa eléctrica o portón a distancia.",
+      "Para fraccionamientos residenciales, parques industriales y plazas comerciales diseñamos accesos vehiculares con barreras de alta velocidad, tags RFID de largo alcance en parabrisas y cámaras LPR de reconocimiento de placas."
+    ],
+    "keyBenefits": [
+      "Videollamada al celular cuando tocan tu puerta aunque no estés en casa.",
+      "Desbloqueo de puerta peatonal o vehicular desde la pantalla interior o app.",
+      "Tags RFID no duplicables y bajas inmediatas para residentes morosos o ex-inquilinos.",
+      "Registro fotográfico de visitantes y placas vehiculares."
+    ],
+    "technologies": ["Videoportero IP / PoE", "Apertura Remota App", "Tags RFID Largo Alcance", "Barreras Vehiculares", "Lectura Placas LPR"],
+    "applications": {
+      "Hogar": "Casas habitación con reja exterior, departamentos y residencias privadas.",
+      "Airbnb": "Recepción remota de huéspedes y apertura de acceso peatonal principal.",
+      "Empresas B2B": "Fraccionamientos privados, edificios corporativos, estacionamientos y parques industriales."
+    },
+    "recommendedBrands": ["Dahua", "Hikvision", "ZKTeco", "AccessPRO"],
+    "serviceFaqs": [
+      {
+        "q": "¿Puedo abrir la puerta desde mi celular si me traen un paquete y estoy trabajando?",
+        "a": "Sí. El videoportero IP te envía la llamada al teléfono para hablar con el repartidor, verlo en video y liberar la chapa eléctrica desde la app."
+      },
+      {
+        "q": "¿Para un fraccionamiento pueden cotizar barreras, tags y mantenimiento?",
+        "a": "Sí. Realizamos levantamiento en sitio para dimensionar carriles, distancia de lectura RFID, interfón de caseta y póliza de servicio para comités de vecinos."
+      },
+      {
+        "q": "¿Se puede integrar el videoportero con cámaras CCTV existentes?",
+        "a": "En ecosistemas compatibles (como Dahua o Hikvision) puedes ver el frente de calle y tus cámaras dentro de la misma aplicación."
+      }
+    ],
+    "relatedSlugs": ["automatizacion-portones-wifi", "control-accesos-empresariales", "videovigilancia-durango"]
+  },
+  {
+    "id": 14,
+    "slug": "sensores-humo-gas-cercas",
+    "name": "Sensores de Protección (Humo, Gas y Agua) y Cercas",
+    "displayTitleLines": ["Sensores de Protección", "(Humo, Gas y Agua) y Cercas"],
+    "shortTitle": "Sensores & Cercas Smart",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-sensores-humo-gas-cercas.png",
+    "imageAlt": "Sensor inteligente de humo y gas junto a detector arquitectónico de fuga de agua",
+    "summary": "Detecta a tiempo humo, fugas de gas LP/natural o derrames de agua con alertas en tu teléfono, y refuerza bardas perimetrales con cercas electrificadas inteligentes.",
+    "seoTitle": "Detectores Inteligentes de Humo, Gas y Agua y Cercas en Durango | SITED",
+    "seoDescription": "Sensores inteligentes de humo, gas LP y fugas de agua con alertas móviles, más cercas electrificadas perimetrales con app en Durango.",
+    "keywords": ["detector de gas humo inteligente Durango", "sensor fuga de agua WiFi", "cerca electrificada inteligente Durango"],
+    "heroHeadline": "Protección temprana contra siniestros invisibles y disuasión perimetral real.",
+    "problemSolved": "Una fuga de gas nocturna, un cortocircuito o una manguera rota pueden causar daños graves si nadie está en casa o fuera de horario laboral.",
+    "descriptionLong": [
+      "Protegemos tu propiedad más allá del robo mediante sensores ambientales inteligentes de detección temprana: detectores fotoeléctricos de humo para cuartos, bodegas y oficinas; sensores de gas LP/natural para cocinas e instalaciones con caldera; y sensores de fuga de agua colocados bajo tarjas, baños y cuartos de lavado (con opción de electroválvula de corte automático).",
+      "Complementamos la primera línea de defensa física con cercas electrificadas perimetrales de alto voltaje no letal enlazadas a energizadores inteligentes que notifican en tu app cualquier corte, descarga o intrusión en barda."
+    ],
+    "keyBenefits": [
+      "Alertas sonoras locales + notificación crítica instantánea a smartphones autorizados.",
+      "Prevención de incendios, intoxicación por gas e inundaciones costosas.",
+      "Opciones ideales para restaurantes, bares, cocinas comerciales, guarderías y escuelas (Protección Civil).",
+      "Cercas perimetrales con respaldo de batería ante cortes de corriente."
+    ],
+    "technologies": ["Sensores Humo Fotoeléctricos", "Detección Gas LP/Natural", "Sensores Fuga Agua", "Cerca Perimetral Smart", "Electroválvula Corte"],
+    "applications": {
+      "Hogar": "Cocinas, cuartos de servicio/lavandería, recámaras y bardas perimetrales.",
+      "Airbnb": "Prevención de accidentes por huéspedes en cocinetas, baños y boilers.",
+      "Empresas B2B": "Escuelas, restaurantes, cocinas industriales, almacenes de archivo y bodegas."
+    },
+    "recommendedBrands": ["Tuya / Smart Life", "Sonoff", "Hikvision", "Dahua"],
+    "serviceFaqs": [
+      {
+        "q": "¿El detector de gas sirve para gas estacionario LP y gas natural?",
+        "a": "Sí, instalamos el sensor específico a la altura recomendada según el tipo de gas de tu instalación (bajo para gas LP que es más pesado, o alto para gas natural)."
+      },
+      {
+        "q": "¿El sensor de agua puede cerrar la llave de paso automáticamente?",
+        "a": "Sí. Al integrarse con una válvula motorizada inteligente corta el suministro principal en segundos si detecta inundación."
+      },
+      {
+        "q": "¿Las cercas electrificadas siguen operando si falla la luz?",
+        "a": "Sí, los energizadores integran batería de respaldo para mantener activa la protección y la sirena."
+      }
+    ],
+    "relatedSlugs": ["sistemas-de-seguridad", "videovigilancia-durango", "automatizacion-electrodomesticos"]
+  },
+  {
+    "id": 15,
+    "slug": "wifi-mesh-mantenimiento",
+    "name": "WiFi Mesh Corporativo y Pólizas de Mantenimiento",
+    "displayTitleLines": ["WiFi Mesh Corporativo y", "Pólizas de Mantenimiento"],
+    "shortTitle": "WiFi Mesh & Pólizas",
+    "categories": ["hogar", "hospitality", "b2b"],
+    "featuredInHero": false,
+    "image": "assets/img/servicios/prod-wifi-mesh-mantenimiento.png",
+    "imageAlt": "Puntos de acceso WiFi Mesh empresariales de techo con anillo indicador LED",
+    "summary": "Cobertura WiFi estable de punta a punta sin zonas muertas ni saturación IoT, acompañada de pólizas de mantenimiento preventivo para que tu tecnología nunca falle.",
+    "seoTitle": "Redes WiFi Mesh y Pólizas de Mantenimiento Técnico en Durango | SITED",
+    "seoDescription": "Elimina zonas muertas de WiFi en residencias grandes, restaurantes, bares, hospitales y oficinas en Durango. Access Points empresariales Ubiquiti y pólizas de mantenimiento preventivo.",
+    "keywords": ["WiFi Mesh empresarial Durango", "mejorar cobertura WiFi casa restaurante Durango", "póliza mantenimiento cámaras redes"],
+    "heroHeadline": "Conectividad sin zonas muertas y soporte técnico continuo que protege tu inversión.",
+    "problemSolved": "Los módems domésticos de operadoras colapsan con 20+ dispositivos conectados y muros gruesos de adobe o concreto en Durango, dejando cámaras y domótica desconectados.",
+    "descriptionLong": [
+      "Una automatización sólida requiere una red inalámbrica robusta. Diseñamos arquitectura WiFi Mesh cableada y empresarial (como Ubiquiti UniFi) con roaming transparente: camina por toda tu residencia, restaurante, clínica o escuela sin que tus dispositivos se desconecten ni pierdan velocidad.",
+      "Además, ofrecemos pólizas de mantenimiento preventivo y correctivo para empresas, restaurantes, bares, corporativos, hospitales, escuelas y comercios: limpieza de lentes de CCTV, verificación de discos duros, respaldo de configuraciones, pruebas de batería y respuesta prioritaria ante incidentes."
+    ],
+    "keyBenefits": [
+      "Soporta decenas o cientos de usuarios y dispositivos IoT simultáneos sin saturación.",
+      "Red de invitados separada y segura (portal cautivo o límite de velocidad para restaurantes, bares y negocios).",
+      "Mantenimiento programado de cámaras, control de accesos y redes para evitar fallas críticas.",
+      "Atención local en Durango con facturación CFDI y visita técnica programada."
+    ],
+    "technologies": ["WiFi 6 / WiFi Mesh", "Access Points PoE+", "Roaming Transparente", "Portal Cautivo", "Mantenimiento Preventivo"],
+    "applications": {
+      "Hogar": "Casas de dos o más plantas, jardines, cuartos traseros y estudios de teletrabajo.",
+      "Airbnb": "Señal estable garantizada para huéspedes + red aislada para cerraduras y cámaras.",
+      "Empresas B2B": "Restaurantes y bares (comensales y red POS separada), más pólizas de CCTV, biometría y redes para hospitales, escuelas y plazas."
+    },
+    "recommendedBrands": ["Ubiquiti UniFi", "Panduit", "Dahua", "Hikvision"],
+    "serviceFaqs": [
+      {
+        "q": "¿Por qué mis cámaras o apagadores WiFi se desconectan con el módem normal?",
+        "a": "Porque los módems de las compañías de internet tienen poca capacidad de procesamiento para múltiples sesiones simultáneas y sufren atenuación por muros; un Access Point dedicado resuelve la estabilidad de raíz."
+      },
+      {
+        "q": "¿Qué incluye una póliza de mantenimiento empresarial?",
+        "a": "Inspección periódica de cámaras, limpieza óptica, verificación de salud de grabación/NVR, ajuste de chapas y biométricos, actualización de firmware y soporte técnico prioritario."
+      },
+      {
+        "q": "¿Realizan estudio previo de cobertura en el inmueble?",
+        "a": "Sí, realizamos visita de levantamiento técnico (con costo según zona y tamaño del inmueble) para ubicar estratégicamente cada nodo y punto de acceso."
+      }
+    ],
+    "relatedSlugs": ["sistemas-voz-y-datos", "videovigilancia-durango", "control-accesos-empresariales"]
+  }
+]

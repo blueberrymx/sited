@@ -1,0 +1,347 @@
+{
+  "brand": {
+    "name": "SITED Soluciones Tecnológicas",
+    "shortName": "SITED",
+    "tagline": "Automatización inteligente, seguridad y conectividad para residencias, restaurantes y grandes empresas.",
+    "heroPitch": "Llevamos tecnología WiFi, Bluetooth, Zigbee, RFID e infraestructura IP profesional a tu residencia, restaurante, Airbnb o corporativo para controlar seguridad, accesos, iluminación, climatización y redes desde un solo lugar.",
+    "siteUrl": "https://sited.com.mx",
+    "legalUpdated": "21 de noviembre de 2026",
+    "city": "Durango, Dgo., México",
+    "region": "Durango y cobertura regional",
+    "foundedYear": 2024,
+    "copyrightYear": 2026
+  },
+  "contact": {
+    "phoneDisplay": "618 332 9565",
+    "phoneRaw": "526183329565",
+    "whatsappUrl": "https://wa.me/526183329565",
+    "email": "siteddgo@gmail.com",
+    "address": "Calle Zarco Nte. 202, Zona Centro, C.P. 34000, Durango, Dgo., México",
+    "addressShort": "Calle Zarco Nte. 202, Zona Centro, Durango, Dgo.",
+    "plusCode": "28HM+HQ Durango",
+    "geo": {
+      "lat": 24.0289468,
+      "lng": -104.6656094
+    },
+    "mapsUrl": "https://maps.app.goo.gl/uJUUJGDBm8VLSBsG9",
+    "mapsEmbedUrl": "https://maps.google.com/maps?q=24.0289468,-104.6656094+(SITED+Soluciones+Tecnol%C3%B3gicas)&t=&z=16&ie=UTF8&iwloc=B&output=embed",
+    "hours": [
+      { "days": "Lunes a Viernes", "time": "11:00 – 20:00" },
+      { "days": "Sábado", "time": "11:00 – 14:00" },
+      { "days": "Domingo", "time": "Cerrado" }
+    ],
+    "paymentMethods": "Aceptamos tarjetas Visa y Mastercard. Planes de pago a meses con financiamiento (aplica interés según plazo y esquema de pago). Emitimos facturación fiscal (CFDI).",
+    "technicalVisitPolicy": "La visita de evaluación técnica e inspección en sitio tiene costo desde $250 MXN, el cual varía según la distancia, zona y tipo de servicio solicitado.",
+    "socials": [
+      {
+        "id": "whatsapp",
+        "label": "WhatsApp",
+        "url": "https://wa.me/526183329565",
+        "ariaLabel": "Enviar mensaje por WhatsApp a SITED Soluciones Tecnológicas"
+      },
+      {
+        "id": "facebook",
+        "label": "Facebook",
+        "url": "https://www.facebook.com/siteddgo",
+        "ariaLabel": "Visitar página oficial de SITED en Facebook"
+      },
+      {
+        "id": "instagram",
+        "label": "Instagram",
+        "url": "https://www.instagram.com/siteddgo",
+        "ariaLabel": "Seguir a @siteddgo en Instagram"
+      },
+      {
+        "id": "maps",
+        "label": "Google Maps",
+        "url": "https://maps.app.goo.gl/uJUUJGDBm8VLSBsG9",
+        "ariaLabel": "Ver ubicación y reseñas de SITED en Google Maps"
+      },
+      {
+        "id": "email",
+        "label": "Correo electrónico",
+        "url": "mailto:siteddgo@gmail.com",
+        "ariaLabel": "Escribir correo a siteddgo@gmail.com"
+      }
+    ]
+  },
+  "developer": {
+    "name": "Blueberry Digital",
+    "url": "https://wa.me/+526182103942"
+  },
+  "heroSlides": [
+    {
+      "index": "01",
+      "shortLabel": "Videovigilancia",
+      "title": "Videovigilancia Inteligente HD & IA",
+      "ctaLabel": "Conocer más",
+      "ctaHref": "servicios/videovigilancia-durango/index.html",
+      "bgImage": "assets/img/hero/slide-01.jpg",
+      "productImage": "assets/img/servicios/prod-videovigilancia-durango.png",
+      "productAlt": "Cámaras de videovigilancia inteligente IP bala y PTZ"
+    },
+    {
+      "index": "02",
+      "shortLabel": "Accesos Airbnb",
+      "title": "Control de Accesos para Residencias y Airbnb",
+      "ctaLabel": "Conocer más",
+      "ctaHref": "servicios/control-accesos-airbnb/index.html",
+      "bgImage": "assets/img/hero/slide-02.jpg",
+      "productImage": "assets/img/servicios/prod-control-accesos-airbnb.png",
+      "productAlt": "Cerradura inteligente WiFi con teclado PIN y gateway remoto para Airbnb"
+    },
+    {
+      "index": "03",
+      "shortLabel": "Iluminación LED",
+      "title": "Iluminación Inteligente y Escaleras LED",
+      "ctaLabel": "Conocer más",
+      "ctaHref": "servicios/iluminacion-inteligente/index.html",
+      "bgImage": "assets/img/hero/slide-03.jpg",
+      "productImage": "assets/img/servicios/prod-iluminacion-inteligente.png",
+      "productAlt": "Apagador táctil WiFi de cristal templado y perfil LED arquitectónico"
+    },
+    {
+      "index": "04",
+      "shortLabel": "Accesos B2B",
+      "title": "Control de Accesos Empresariales y Biometría",
+      "ctaLabel": "Conocer más",
+      "ctaHref": "servicios/control-accesos-empresariales/index.html",
+      "bgImage": "assets/img/hero/slide-04.jpg",
+      "productImage": "assets/img/servicios/prod-control-accesos-empresariales.png",
+      "productAlt": "Terminal biométrica de reconocimiento facial y lectura RFID empresarial"
+    },
+    {
+      "index": "05",
+      "shortLabel": "Hogar y Negocio",
+      "title": "Automatización Integral WiFi para Hogar y Negocio",
+      "ctaLabel": "Conocer más",
+      "ctaHref": "#servicios",
+      "bgImage": "assets/img/hero/slide-05.jpg",
+      "productImage": "assets/img/servicios/prod-automatizacion-electrodomesticos.png",
+      "productAlt": "Módulo de automatización inteligente WiFi, sensor magnético y control"
+    }
+  ],
+  "processSteps": [
+    {
+      "number": "01",
+      "title": "Contacto & Asesoría",
+      "description": "Analizamos tus necesidades por WhatsApp o llamada —ya sea para una residencia, restaurante, Airbnb, oficina o proyecto corporativo— para definir los protocolos y equipos adecuados sin sobredimensionar tu inversión."
+    },
+    {
+      "number": "02",
+      "title": "Revisión y Cotización",
+      "description": "Realizamos levantamiento técnico y propuesta económica detallada. Cuando el proyecto requiere inspección física de trayectorias, señal o cableado, programamos una visita técnica en domicilio (con costo variable según zona y servicio)."
+    },
+    {
+      "number": "03",
+      "title": "Instalación del Servicio",
+      "description": "Ejecutamos montaje limpio, canalización discreta, configuración de red, enlaces WiFi/Zigbee/PoE o biometría y puesta a punto de cada dispositivo respetando la estética e infraestructura del inmueble."
+    },
+    {
+      "number": "04",
+      "title": "Pruebas, Capacitación y Entrega",
+      "description": "Validamos escenarios reales de operación, configuramos las aplicaciones en tus teléfonos, capacitamos a tu familia o personal operativo y entregamos póliza de garantía y factura fiscal (CFDI) si la requieres."
+    }
+  ],
+  "b2bSectors": [
+    {
+      "sector": "Plazas Comerciales",
+      "focus": "Infraestructura & Seguridad",
+      "solution": "Videovigilancia perimetral IP, conteo de flujo, iluminación exterior por horario astronómico, anuncios luminosos automatizados, enlaces de fibra óptica y WiFi de alta densidad."
+    },
+    {
+      "sector": "Hospitales y Clínicas",
+      "focus": "Continuidad & Bioseguridad",
+      "solution": "Control de accesos por niveles (quirófanos, farmacia, áreas restringidas), redes cableadas Cat6A con redundancia, VLAN segmentada y climatización controlada con respaldo energético."
+    },
+    {
+      "sector": "Escuelas y Universidades",
+      "focus": "Campus Protegido",
+      "solution": "Torniquetes biométricos/RFID para alumnos y personal, CCTV en accesos y pasillos, programación automática de clima/luces por horarios de aula y detección temprana de humo y gas."
+    },
+    {
+      "sector": "Restaurantes y Bares",
+      "focus": "Ambiente, Red & Control",
+      "solution": "Cámaras HD en caja, cocina y barra, iluminación inteligente por ambientes, WiFi de alta densidad separado para comensales y terminales POS, control de clima y sensores de gas y humo."
+    },
+    {
+      "sector": "Empresas y Corporativos",
+      "focus": "Control Operativo & CFDI",
+      "solution": "Biometría con reporte de asistencia, portones automatizados, voz y datos certificados, pólizas de mantenimiento preventivo/correctivo y facturación fiscal completa."
+    }
+  ],
+  "recommendedBrands": [
+    {
+      "name": "Dahua",
+      "logo": "assets/img/logo/dahua.png",
+      "category": "Videovigilancia & Acceso",
+      "tier": "Profesional / B2B",
+      "summary": "Líder en CCTV HDCVI e IP, grabación NVR/DVR, analítica con IA y videoporteros corporativos."
+    },
+    {
+      "name": "Hikvision",
+      "logo": "assets/img/logo/hikvision.png",
+      "category": "Seguridad & Analítica IA",
+      "tier": "Empresarial",
+      "summary": "Cámaras IP de alta gama, lectura de placas vehiculares (LPR) y monitoreo centralizado para plazas y naves."
+    },
+    {
+      "name": "IMOU",
+      "logo": "assets/img/logo/imou.png",
+      "category": "Videovigilancia WiFi",
+      "tier": "Hogar & PyME",
+      "summary": "Cámaras 360° y exteriores IP66 con visión nocturna a color, audio bidireccional y alertas en smartphone."
+    },
+    {
+      "name": "ZKTeco",
+      "logo": "assets/img/logo/zkteco.png",
+      "category": "Biometría & Torniquetes",
+      "tier": "Empresarial / B2B",
+      "summary": "Estándar en terminales de reconocimiento facial, huella, lectores RFID, torniquetes y control de asistencia."
+    },
+    {
+      "name": "TTLock",
+      "logo": "assets/img/logo/ttlock.png",
+      "category": "Cerraduras Smart & Airbnb",
+      "tier": "Airbnb / Residencial",
+      "summary": "Ecosistema especializado para renta vacacional con generación de códigos PIN temporales offline/online y API."
+    },
+    {
+      "name": "AccessPRO",
+      "logo": "assets/img/logo/accsesspro.png",
+      "category": "Accesos & Portones",
+      "tier": "Residencial / Privadas",
+      "summary": "Chapas magnéticas, barreras vehiculares, botoneras y accesorios electromecánicos de alta durabilidad."
+    },
+    {
+      "name": "Shelly",
+      "logo": "assets/img/logo/shelly.png",
+      "category": "Relevadores & Energía",
+      "tier": "Domótica Pro",
+      "summary": "Micro-módulos WiFi/Matter de contacto seco y 16A con medición de consumo para automatización invisible en registro."
+    },
+    {
+      "name": "Sonoff",
+      "logo": "assets/img/logo/sonoff.png",
+      "category": "Iluminación & Relés",
+      "tier": "Hogar / Negocio",
+      "summary": "Interruptores inteligentes, módulos Zigbee y actuadores versátiles de respuesta rápida."
+    },
+    {
+      "name": "Tuya / Smart Life",
+      "logo": "assets/img/logo/tuya.png",
+      "category": "Ecosistema IoT",
+      "tier": "Multiservicio",
+      "summary": "Plataforma unificada que centraliza apagadores, sensores, persianas, climas y rutinas en una sola app."
+    },
+    {
+      "name": "Somfy",
+      "logo": "assets/img/logo/somfy.png",
+      "category": "Persianas Motorizadas",
+      "tier": "Arquitectónico",
+      "summary": "Motores tubulares silenciosos de precisión para persianas enrollables, cortinas y protección solar."
+    },
+    {
+      "name": "Sensibo",
+      "logo": "assets/img/logo/sensibo.png",
+      "category": "Climatización Smart",
+      "tier": "Ahorro HVAC",
+      "summary": "Controladores WiFi para minisplits con geofencing y clima reactivo para reducir el recibo CFE."
+    },
+    {
+      "name": "Ubiquiti UniFi",
+      "logo": "assets/img/logo/uniquiti.png",
+      "category": "Redes & WiFi Mesh",
+      "tier": "Empresarial / B2B",
+      "summary": "Access Points WiFi de alta densidad, switches PoE+ y enlaces corporativos gestionados en la nube."
+    },
+    {
+      "name": "Hunter",
+      "logo": "assets/img/logo/hunter.png",
+      "category": "Riego Inteligente",
+      "tier": "Residencial / Áreas Verdes",
+      "summary": "Controladores WiFi con ajuste meteorológico Hydrawise y electroválvulas de grado comercial."
+    },
+    {
+      "name": "Panduit",
+      "logo": "assets/img/logo/panduit.png",
+      "category": "Voz y Datos",
+      "tier": "Infraestructura Crítica",
+      "summary": "Cableado estructurado Cat6/Cat6A, conectores y canalización certificada para corporativos y hospitales."
+    },
+    {
+      "name": "Alexa · Google Home · Matter",
+      "logo": "assets/img/logo/alexa.png",
+      "category": "Control por Voz & Estándar",
+      "tier": "Interoperabilidad",
+      "summary": "Integración natural con asistentes de voz y el estándar universal Matter para compatibilidad futura."
+    }
+  ],
+  "reviews": {
+    "rating": 5.0,
+    "totalCount": 8,
+    "sourceLabel": "Calificación verificada en Google Business Profile",
+    "items": [
+      {
+        "author": "Enrique Reyna",
+        "rating": 5,
+        "meta": "Cliente verificado · Google Maps",
+        "text": "Son un servicio muy pro, llegaron muy puntuales, traían toda su herramienta muy bien organizada y muy accesibles, servicio 10/10 👌🏻"
+      },
+      {
+        "author": "Nao Leal",
+        "rating": 5,
+        "meta": "Cliente verificada · Google Maps",
+        "text": "10/10 súper recomendados, me instalaron una cámara y una chapa electrónica. Muy feliz con su trabajo."
+      },
+      {
+        "author": "Ram Fer",
+        "rating": 5,
+        "meta": "Cliente verificado · Google Maps",
+        "text": "Buen servicio todo muy bien, me hicieron toda la instalación completa y me ayudaron con otros mantenimientos de casa."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "q": "¿Qué tecnologías utilizan para automatizar hogares y empresas?",
+      "a": "Integramos soluciones híbridas según el tipo de inmueble: para viviendas y comercios trabajamos con WiFi, Bluetooth, Zigbee y estándar Matter compatibles con Alexa y Google Home; para restaurantes, plazas, hospitales, escuelas y corporativos implementamos infraestructura IP/PoE, cableado estructurado Cat6A, biometría, RFID y sistemas de gestión energética."
+    },
+    {
+      "q": "¿La visita técnica de revisión tiene algún costo?",
+      "a": "Sí. La visita de evaluación técnica tiene un costo que depende de la zona de ubicación en Durango (o alrededores) y de la complejidad del servicio solicitado. Previamente realizamos una asesoría inicial sin compromiso por WhatsApp para orientarte sobre alcances y viabilidad."
+    },
+    {
+      "q": "¿Emiten factura fiscal (CFDI) para negocios y empresas?",
+      "a": "Sí, emitimos factura fiscal (CFDI) en todos nuestros proyectos residenciales, de alojamiento Airbnb y corporativos (restaurantes, bares, plazas comerciales, hospitales, escuelas y oficinas), además de ofrecer pólizas de mantenimiento y garantía por escrito."
+    },
+    {
+      "q": "¿Qué métodos y esquemas de pago aceptan?",
+      "a": "Aceptamos transferencia bancaria, efectivo y tarjetas de crédito y débito Visa y Mastercard. También contamos con opción de pago a meses con financiamiento (aplica interés/comisión según el plazo y esquema de pago seleccionado)."
+    },
+    {
+      "q": "¿Se necesita romper muros o hacer obra civil pesada para automatizar mi casa?",
+      "a": "En la mayoría de las instalaciones residenciales y de Airbnb trabajamos sobre tu infraestructura eléctrica existente usando apagadores táctiles, micro-relevadores ocultos, cerraduras autónomas y persianas con motores recargables o cableado discreto, evitando obras invasivas."
+    },
+    {
+      "q": "¿Qué pasa con mis cerraduras o luces si se va el internet o la energía eléctrica?",
+      "a": "Las cerraduras smart funcionan con baterías de larga duración, permiten códigos temporales offline (como TTLock) e incluyen puerto USB exterior y llave mecánica de respaldo. Los apagadores inteligentes conservan su operación manual física de pared, y en seguridad/accesos críticos instalamos respaldos UPS y protocolo local."
+    },
+    {
+      "q": "¿Cómo funciona exactamente el control de accesos remoto para Airbnb?",
+      "a": "Instalamos cerraduras inteligentes vinculadas a un gateway WiFi que te permiten generar desde cualquier ciudad códigos PIN únicos válidos únicamente entre la hora de check-in y check-out de tu huésped. Cuando la reserva termina, el acceso caduca automáticamente sin entregar ni recuperar llaves físicas."
+    },
+    {
+      "q": "¿Atienden proyectos grandes como restaurantes, plazas, escuelas u hospitales?",
+      "a": "Sí. Diseñamos e implementamos infraestructura escalable B2B: cableado estructurado voz y datos, redes WiFi de alta densidad, control de accesos biométrico/RFID con bitácoras y videovigilancia IP con analítica IA."
+    },
+    {
+      "q": "¿Pueden automatizar mi portón o mi aire acondicionado minisplit actual?",
+      "a": "Sí. Con nuestros módulos WiFi de contacto seco integramos la gran mayoría de motores de cochera existentes para abrir desde el celular o por voz; y con controladores infrarrojos inteligentes hacemos compatible prácticamente cualquier minisplit tradicional para control remoto y ahorro energético."
+    },
+    {
+      "q": "¿Cómo solicito una cotización precisa?",
+      "a": "Puedes usar nuestro Cotizador Inteligente en esta misma página: selecciona tu perfil, los servicios que te interesan y envía tu resumen estructurado directamente a nuestro WhatsApp (618 332 9565) para recibir atención rápida y personalizada."
+    }
+  ]
+}
